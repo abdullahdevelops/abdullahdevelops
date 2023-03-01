@@ -13,7 +13,7 @@
 - 👨‍💻 I am currently working as an **Associate Software Engineer @ Devsinc**.
 - 🌱 I'm currently learning **Deno Js**.
 - 💬 I love to talk about **Flutter, NodeJs, Firebase, Mobile App Technologies, System Designs and Architecture, Full Stack Development**.
-- 💎 I am interested in learning **Cloud Computing** and **Software architecture**.
+- 💎 I am interested in learning **Deep Learning**.
 - 📩 You can reach out to me via **[Email](mailto:abdullahshahid1071@gmail.com)**.
 - ⚡ Constantly learning new technologies.
 
