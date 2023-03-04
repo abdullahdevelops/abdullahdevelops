@@ -10,7 +10,7 @@
 
 <br/>
 
-- 👨‍💻 I am currently working as an **Associate Software Engineer @ Devsinc**.
+- 👨‍💻 I am currently working as an **Software Engineer**.
 - 🌱 I'm currently learning **Deno Js**.
 - 💬 I love to talk about **Flutter, NodeJs, Firebase, Mobile App Technologies, System Designs and Architecture, Full Stack Development**.
 - 💎 I am interested in learning **Deep Learning**.
