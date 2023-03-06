@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shahid</h1>
-<h4 align="center">Full-Stack Mobile Engineer.</h4>
+<h4 align="center">Full-Stack Mobile App Engineer.</h4>
 
 <br/>
 
