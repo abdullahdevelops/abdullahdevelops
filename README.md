@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shahid</h1>
 <h4 align="center">Full-Stack Mobile App Engineer.</h4>
 
-<br/>
+<hr>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abdullah-shahid-b9a594219/"><img src="https://img.shields.io/badge/-Abdullah%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -65,10 +65,10 @@
 </tr>
 </table>
 
-<br />
+<hr>
 
 <div align='center'>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-RobotDev&show_icons=true&locale=en&layout=compact" alt="Mr-RobotDev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-RobotDev&theme=dark&show_icons=true&locale=en&layout=compact" alt="Mr-RobotDev" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-RobotDev&show_icons=true&locale=en" alt="Mr-RobotDev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-RobotDev&theme=dark&show_icons=true&locale=en" alt="Mr-RobotDev" /></p>
 </div>
