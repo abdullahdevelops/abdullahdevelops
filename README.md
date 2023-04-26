@@ -11,7 +11,7 @@
 <br/>
 
 - 👨‍💻 I am currently working as a **Software Engineer**.
-- 🌱 Learning **Deno Js**.
+- 🌱 Learning **Node Js**.
 - 💬 Would love to talk about **Flutter, NodeJs, Firebase, Mobile App Technologies, System Designs and Architecture, Full Stack Development**.
 - 💎 Interested in learning **Deep Learning**.
 - 📩 You can reach out to me via **[Email](mailto:abdullahshahid1071@gmail.com)**.
