@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shahid</h1>
-<h4 align="center">Full-Stack Mobile App Engineer.</h4>
+<h4 align="center">Full-Stack Engineer.</h4>
 
 <hr>
 
@@ -10,9 +10,9 @@
 
 <br/>
 
-- 👨‍💻 I am currently working as a **Software Engineer**.
-- 🌱 Learning **Node Js**.
-- 💬 Would love to talk about **Flutter, NodeJs, Firebase, Mobile App Technologies, System Designs and Architecture, Full Stack Development**.
+- 👨‍💻 I am a **Senior Software Engineer**.
+- 🌱 Learning **Vue**.
+- 💬 Would love to talk about **React, Angular, Next, Flutter, Node/Express, Nest, Firebase, System Designs and Architecture, Full Stack Development**.
 - 💎 Interested in learning **Deep Learning**.
 - 📩 You can reach out to me via **[Email](mailto:abdullahshahid1071@gmail.com)**.
 - ⚡ Constantly learning new technologies.
@@ -66,9 +66,6 @@
 </table>
 
 <hr>
-
-<div align='center'>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-RobotDev&theme=dark&show_icons=true&locale=en&layout=compact" alt="Mr-RobotDev" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-RobotDev&theme=dark&show_icons=true&locale=en" alt="Mr-RobotDev" /></p>
 </div>
