@@ -11,8 +11,8 @@
 <br/>
 
 - 👨‍💻 I am a **Senior Software Engineer**.
-- 🌱 Learning **Vue**.
-- 💬 Would love to talk about **React, Angular, Next, Flutter, Node/Express, Nest, Firebase, System Designs and Architecture, Full Stack Development**.
+- 🌱 Learning **Next**.
+- 💬 Would love to talk about **React, Next, Node/Express, Nest, Firebase, System Design and Architecture**.
 - 💎 Interested in learning **Deep Learning**.
 - 📩 You can reach out to me via **[Email](mailto:abdullahshahid1071@gmail.com)**.
 - ⚡ Constantly learning new technologies.
