@@ -66,6 +66,4 @@
 </table>
 
 <hr>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-RobotDev&theme=dark&show_icons=true&locale=en" alt="Mr-RobotDev" /></p>
 </div>
