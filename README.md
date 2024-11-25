@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdullah-shahid-b9a594219/"><img src="https://img.shields.io/badge/-Abdullah%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdullahshahid56/"><img src="https://img.shields.io/badge/-Abdullah%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdullahshahid1071@gmail.com"><img src="https://img.shields.io/badge/-abdullahshahid1071@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Mr-RobotDev&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-RobotDev" /> </p>
 
