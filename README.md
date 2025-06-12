@@ -10,8 +10,7 @@
 
 <br/>
 
-- 👨‍💻 I am a **Lead Full Stack Engineer**.
-- 🌱 Learning **Gen AI**.
+- 👨‍💻 I am a **Lead Full Stack Engineer & GenAI Expert**.
 - 💬 Would love to talk about **System Design and Architecture**.
 - 💎 Interested in learning **Cloud**.
 - ⚡ Constantly learning new technologies.
