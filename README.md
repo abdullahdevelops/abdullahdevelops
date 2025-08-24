@@ -1,17 +1,129 @@
-<h1 align="center">Hi 👋, I'm Abdullah Shahid</h1>
-<h4 align="center">Lead Full-Stack Engineer.</h4>
+<div align="center">
 
-<hr>
+```
+██████╗ ███████╗████████╗██████╗  ██████╗      ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗     ██╔══██╗██╔════╝██║   ██║
+██████╔╝█████╗     ██║   ██████╔╝██║   ██║     ██║  ██║█████╗  ██║   ██║
+██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝     ██████╔╝███████╗ ╚████╔╝
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝      ╚═════╝ ╚══════╝  ╚═══╝
+```
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abdullahshahid56/"><img src="https://img.shields.io/badge/-Abdullah%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdullahshahid1071@gmail.com"><img src="https://img.shields.io/badge/-abdullahshahid1071@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Mr-RobotDev&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-RobotDev" /> </p>
+</div>
 
-<br/>
+<div align="center">
+  
+### `> INITIALIZING DEVELOPER PROFILE...` ⚡
+### `> STATUS: ONLINE AND CODING` 💾
+### `> LOCATION: ~/GITHUB/ABDULLAHDEVELOPS` 📡
 
-- 👨‍💻 I am a **Lead Full Stack Engineer & GenAI Expert**.
-- 💬 Would love to talk about **System Design and Architecture**.
-- 💎 Interested in learning **Cloud**.
-- ⚡ Constantly learning new technologies.
-- 📩 You can reach out to me via **[Email](mailto:abdullahshahid1071@gmail.com)**.
+---
+
+**`WELCOME TO MY DIGITAL WORKSPACE`** 🖥️  
+_Where vintage meets modern development_
+
+</div>
+
+## 🎮 SYSTEM SPECS
+
+```bash
+$ whoami
+developer@github:~$ cat /proc/bio
+Name: Abdullah Shahid
+Role: Senior Full Stack Developer
+Language: Multilingual (Code & Human)
+OS: Linux/Windows/macOS Compatible
+Shell: /bin/bash & /bin/zsh
+Status: Always Learning
+```
+
+## 💾 TECH STACK
+
+<div align="center">
+
+### `> RUNNING SYSTEM DIAGNOSTICS...`
+
+```ascii
+┌─ FRONTEND ────────────────────────────┐  ┌─ BACKEND ─────────────────────────────┐
+│                                       │  │                                       │
+│  ⚛️ React      ▲ Next.js   🅰️ Angular │  │  🟢 Node.js    🔥 Express.js 🏠 NestJS │
+│  ⚡ Vue.js     📱 Flutter   📘 TypeScript│  │  🐍 Flask     🚀 FastAPI   💎 RoR     │
+│  🎨 CSS3      📜 JavaScript ⚡ Vite    │  │  ☕ Java      🔵 Go        🦀 Rust    │
+│                                       │  │                                       │
+└───────────────────────────────────────┘  └───────────────────────────────────────┘
+
+┌─ DATABASE ────────────────────────────┐  ┌─ CLOUD/DEVOPS ────────────────────────┐
+│                                       │  │                                       │
+│  🐘 PostgreSQL 🍃 MongoDB   📊 DynamoDB│  │  ☁️ AWS        🌩️ GCP       🔷 Azure  │
+│  🗄️ AWS RDS     🧠 Neo4J     🌲 Pinecone│  │  🌊 DigitalOcean 📱 Vercel  🌊 Nginx  │
+│  🔥 Redis      📊 BigQuery             │  │  🐳 Docker     ☸️ Kubernetes 🔧 CI/CD │
+│                                       │  │  📦 GitHub Actions                    │
+└───────────────────────────────────────┘  └───────────────────────────────────────┘
+```
+
+</div>
+
+## 🌐 CONNECT
+
+<div align="center">
+
+### `> cat ~/contacts/social_links.txt`
+
+```bash
+linkedin="https://linkedin.com/in/abdullahdevelops"
+email="abdullahshahid1071@gmail.com"
+upwork="https://www.upwork.com/freelancers/abdullahshahid"
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahdevelops)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahshahid1071@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/abdullahshahid)
+
+</div>
+
+## 🎵 NOW PLAYING
+
+<div align="center">
+
+<div align="center">
+
+### `> echo "Coding to the rhythm of great music! 🎧"`
+
+```ascii
+♫ ♪ ♫ ♪ Currently Listening To ♪ ♫ ♪ ♫
+╔═══════════════════════════════════════╗
+║  🎵 Coding Beats & Lo-Fi Vibes        ║
+║  🎧 Follow me on Spotify for my       ║
+║      coding playlists!                ║
+╚═══════════════════════════════════════╝
+```
+
+</div>
+
+[![Open Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zkfgunma7is5wsvnsdcsna5zdy)
+
+</div>
+
+---
+
+## 🎯 CLOSING THOUGHTS
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║  "Code is like humor. When you have to explain it, it's bad." - Cory House   ║
+║                                                                               ║
+║  💡 Always learning, always building, always pushing commits                  ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### `> Thanks for visiting! Feel free to explore my repositories 🚀`
+
+### `> Happy coding! 👨‍💻✨`
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdullahdevelops&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
