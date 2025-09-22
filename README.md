@@ -37,7 +37,7 @@ $ whoami --verbose
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahdevelops&theme=synthwave&hide_border=true&stroke=00FFFF&ring=FF0080&fire=FFFF00&currStreakLabel=00FFFF" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahdevelops&theme=synthwave" alt="GitHub Streak" /></a>
 </div>
 
 ---
