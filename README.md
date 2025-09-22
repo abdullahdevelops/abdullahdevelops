@@ -35,11 +35,6 @@ $ whoami --verbose
 > Ghost in the shell, architect of digital realities
 > Specializing in high-tech, low-life code solutions
 ```
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahdevelops&theme=synthwave" alt="GitHub Streak" /></a>
-</div>
-
 ---
 
 ## ⚙️ **CYBER IMPLANTS**
