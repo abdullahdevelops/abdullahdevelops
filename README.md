@@ -31,7 +31,7 @@ $ system_status --neural-link
 
 ```bash
 $ whoami --verbose
-> Abdullah Shahid | Senior Full Stack Developer
+> Abdullah Shahid | Senior Full Stack Developer & GenAI Expert
 > Ghost in the shell, architect of digital realities
 > Specializing in high-tech, low-life code solutions
 ```
